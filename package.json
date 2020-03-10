@@ -1,0 +1,17 @@
+{
+  "name": "estudo-test-jest-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://leandroaa7@github.com/leandroaa7/estudo-test-jest-typescript.git",
+  "author": "leandroaa7 <leandroaalexandre@gmail.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.0",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.3"
+  }
+}
